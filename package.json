@@ -1,7 +1,7 @@
 {
   "name": "vue-self-adaption-view",
   "description": "vue自适应视图容器",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "xuelian.xiang",
   "license": "MIT",
   "main": "dist/index.js",
